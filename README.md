@@ -2,7 +2,17 @@
 
 ### **`Desenvolvedor Back-end`**
 
----
+## 🚀 Linguagens, Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github&theme=dark" height="50" />
+</p>
+
+## 📚 Pretendo Aprender
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,postgres,mongodb,flask&theme=dark" height="50" />
+</p>
 
 ## 📊 Estatísticas
 
@@ -14,27 +24,9 @@
   &nbsp;&nbsp;&nbsp;
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielbatista&theme=dark&layout=compact&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielbatista&theme=dark" 
   />
 </p>
-
----
-
-## 🚀 Linguagens, Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github&theme=dark" height="50" />
-</p>
-
----
-
-## 📚 Pretendo Aprender
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,postgres,mongodb,flask&theme=dark" height="50" />
-</p>
-
----
 
 ## 📫 Contato
 

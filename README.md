@@ -4,7 +4,7 @@
 ## 🚀 Linguagens, Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github&theme=dark" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,github,git&theme=dark" height="50" />
 </p>
 
 ## 📚 Pretendo Aprender

@@ -1,21 +1,17 @@
 # 👨🏻‍💻 Gabriel Batista
-
 ### **`Desenvolvedor Back-end`**
-
+---
 ## 🚀 Linguagens, Tecnologias e Ferramentas
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,vscode,git,github&theme=dark" height="50" />
 </p>
-
+---
 ## 📚 Pretendo Aprender
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,postgres,mongodb,flask&theme=dark" height="50" />
 </p>
-
+---
 ## 📊 Estatísticas
-
 <p align="center">
   <img 
     height="180em" 
@@ -24,12 +20,11 @@
   &nbsp;&nbsp;&nbsp;
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielbatista&theme=dark&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielbatista&theme=dark&layout=compact&langs_count=9" 
   />
 </p>
-
+---
 ## 📫 Contato
-
 <p align="center">
   <a href="mailto:ggabrielbattista@gmail.com">
     <img src="https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335" />

@@ -7,10 +7,10 @@
   <img src="https://skillicons.dev/icons?i=python,vscode,github,git&theme=dark" height="50" />
 </p>
 
-## 📚 Pretendo Aprender
+## 📚 Objetivos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,postgres,mongodb,flask&theme=dark" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,flask&theme=dark" height="50" />
 </p>
 
 ## 📊 Estatísticas

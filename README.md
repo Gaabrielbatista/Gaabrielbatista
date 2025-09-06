@@ -1,6 +1,8 @@
 # 👨🏻‍💻 Gabriel Batista
 ### **`Desenvolvedor Back-end`**
 
+Estudante de programação com foco em Back-end. Experiência prática com Python e fundamentos de POO, aplicados em pequenos projetos. Interesse em evoluir em boas práticas de código, estruturas de dados e desenvolvimento de APIs.
+
 ## 🚀 Linguagens, Tecnologias e Ferramentas
 
 <p align="center">

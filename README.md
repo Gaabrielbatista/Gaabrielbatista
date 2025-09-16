@@ -20,7 +20,7 @@ Estudante de programação com foco em Back-end. Experiência prática com Pytho
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=gaabrielbatista&show_icons=true&theme=dark&include_all_commits=True" 
+    src="https://github-readme-stats.vercel.app/api?username=gaabrielbatista&show_icons=true&theme=dark" 
   />
   &nbsp;&nbsp;&nbsp;
   <img 

@@ -6,7 +6,7 @@ Estudante de programação com foco em Back-end. Experiência prática com Pytho
 ## 🚀 Linguagens, Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,github,git&theme=dark" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,github,git,mysql&theme=dark" height="50" />
 </p>
 
 ## 📚 Objetivos
@@ -20,7 +20,7 @@ Estudante de programação com foco em Back-end. Experiência prática com Pytho
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=gaabrielbatista&show_icons=true&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api?username=gaabrielbatista&show_icons=true&theme=dark*include_all_commits" 
   />
   &nbsp;&nbsp;&nbsp;
   <img 

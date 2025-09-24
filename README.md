@@ -6,7 +6,7 @@ Estudante de programação com foco em Back-end. Experiência prática com Pytho
 ## 🚀 Linguagens, Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,github,git,mysql&theme=dark" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,github,git,sqlite&theme=dark" height="50" />
 </p>
 
 ## 📚 Objetivos

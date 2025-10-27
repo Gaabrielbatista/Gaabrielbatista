@@ -12,7 +12,7 @@ Estudante de programação com foco em Back-end. Experiência prática com Pytho
 ## 📚 Objetivos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,flask&theme=dark" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,django,flask&theme=dark" height="50" />
 </p>
 
 ## 📊 Estatísticas

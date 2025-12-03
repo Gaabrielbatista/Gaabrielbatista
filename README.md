@@ -17,17 +17,12 @@ Estudante de programação com foco em Back-end. Experiência prática com Pytho
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=gaabrielbatista&show_icons=true&theme=dark&include_all_commits" 
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielbatista&theme=dark&layout=compact&langs_count=9" 
-  />
-</p>
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaabrielbatista&theme=transparent)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaabrielbatista&theme=transparent)
+  
+</div>
 
 <p align="center">
   <a href="mailto:ggabrielbattista@gmail.com">

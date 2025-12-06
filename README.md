@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Gabriel Batista
 ### **`Desenvolvedor Back-end`**
 
-Estudante de programação com foco em Back-end. Experiência prática com Python, Database e Flask aplicados em projetos. Interesse em evoluir em Inteligência Artificial, Bots, Estruturas de dados, Desenvolvimento de apps e Desenvolvimento de APIs.
+Estudante de programação com foco em Back-end. Experiência prática com Python, Database e Flask aplicados em projetos. Interesse em evoluir em Inteligência Artificial, Bots, Desenvolvimento de apps, Desenvolvimento de APIs e Estruturas de dados.
 
 ## 🚀 Linguagens, Tecnologias e Ferramentas
 

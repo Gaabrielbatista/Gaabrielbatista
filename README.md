@@ -6,13 +6,13 @@ Estudante de programação com foco em Back-end. Experiência prática com Pytho
 ## 🚀 Linguagens, Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,postman,git,github&theme=dark" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,postman,git,github,linux,ubuntu&theme=dark" height="50" />
 </p>
 
 ## 📚 Objetivos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,django,docker,linux,ubuntu,aws,idea&theme=dark" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,idea,aws,docker&theme=dark" height="50" />
 </p>
 
 ## 📊 Estatísticas

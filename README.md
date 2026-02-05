@@ -19,8 +19,8 @@ Estudante de programação com foco em Back-end. Experiência prática com Pytho
 
 <div align="center">
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaabrielbatista&theme=github_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaabrielbatista&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaabrielbatista&theme=nord_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaabrielbatista&theme=nord_dark)
   
 </div>
 

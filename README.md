@@ -3,26 +3,23 @@
 
 Estudante de programação com foco em Back-end. Experiência prática com Python, Flask e Database aplicados em projetos. Interesse em evoluir em Desenvolvimento de apps, Desenvolvimento de APIs, Inteligência Artificial, Bots e Estruturas de dados.
 
-## 🚀 Linguagens, Tecnologias e Ferramentas
+### Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,postman,git,linux,ubuntu&theme=dark" height="50" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,flask,mysql,git,github)](https://skillicons.dev)
 
-## 📚 Objetivos
+### Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,aws,docker,mongodb&theme=dark" height="50" />
-</p>
+  [![Tools](https://skillicons.dev/icons?i=vscode,idea,linux,docker)](https://skillicons.dev)
 
-## 📊 Estatísticas
+### Plan to Study
 
-<div align="center">
+  [![Tools](https://skillicons.dev/icons?i=java,spring,postgresql,aws)](https://skillicons.dev)
   
+
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaabrielbatista&theme=nord_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaabrielbatista&theme=nord_dark)
   
-</div>
+
 
 <p align="center">
   <a href="mailto:ggabrielbattista@gmail.com">

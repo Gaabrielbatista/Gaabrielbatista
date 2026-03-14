@@ -3,15 +3,15 @@
 
 Estudante de programação com foco em Back-end. Experiência prática com Python, Flask e Database aplicados em projetos. Interesse em evoluir em Desenvolvimento de apps, Desenvolvimento de APIs, Inteligência Artificial, Bots e Estruturas de dados.
 
-### Skills
+### Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,mysql,git,github)](https://skillicons.dev)
 
-### Tools
+### Ferramentas
 
   [![Tools](https://skillicons.dev/icons?i=vscode,idea,linux,docker)](https://skillicons.dev)
 
-### Plan to Study
+### Objetivos
 
   [![Tools](https://skillicons.dev/icons?i=java,spring,postgresql,aws)](https://skillicons.dev)
   

@@ -14,13 +14,12 @@ Estudante de programação com foco em Back-end. Experiência prática com Pytho
 ### Objetivos
 
   [![Tools](https://skillicons.dev/icons?i=java,spring,postgresql,aws)](https://skillicons.dev)
-  
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaabrielbatista&theme=nord_dark)
+
+  
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaabrielbatista&theme=nord_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaabrielbatista&theme=nord_dark)
   
-
-
 <p align="center">
   <a href="mailto:ggabrielbattista@gmail.com">
     <img src="https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335" />

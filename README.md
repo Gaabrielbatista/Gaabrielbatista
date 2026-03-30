@@ -9,7 +9,7 @@ Estudante de programação com foco em Back-end. Experiência prática com Pytho
 
 ### Ferramentas
 
-  [![Tools](https://skillicons.dev/icons?i=vscode,idea,linux,docker)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=pycharm,idea,vscode,linux,docker)](https://skillicons.dev)
 
 ### Objetivos
 

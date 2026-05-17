@@ -5,7 +5,7 @@ Estudante de programação com foco em Back-end. Experiência prática com Pytho
 
 ### Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,postgresql,mysql,git,github)](https://skillicons.dev)
 
 ### Ferramentas
 
@@ -13,7 +13,7 @@ Estudante de programação com foco em Back-end. Experiência prática com Pytho
 
 ### Objetivos
 
-  [![Tools](https://skillicons.dev/icons?i=java,spring,postgresql,aws)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=java,spring,aws)](https://skillicons.dev)
 
 
   
